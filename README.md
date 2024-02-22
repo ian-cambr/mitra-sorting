@@ -1,5 +1,3 @@
-# **Plugin Name** Plugin
+# **Plugin Name:** Mitra-Sorting
 
-**Plugin Summary**
-
-For more information, please see: **url to meta topic**
+**Plugin Summary:** Sort users into mentee/mentor groups.

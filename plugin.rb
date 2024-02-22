@@ -1,17 +1,17 @@
 # frozen_string_literal: true
 
-# name: discourse-plugin-name
-# about: TODO
+# name: mitra-sorting
+# about: Allows for mentee/mentor sorting categories.
 # meta_topic_id: TODO
 # version: 0.0.1
-# authors: Discourse
-# url: TODO
+# authors: NEATLab; Ian Cambridge / Wilson Zuber / Ivan Jensen / Riley King
+# url: TODO.wwu.edu
 # required_version: 2.7.0
 
-enabled_site_setting :plugin_name_enabled
+enabled_site_setting :mitra_sorting_enabled
 
 module ::MyPluginModule
-  PLUGIN_NAME = "discourse-plugin-name"
+  PLUGIN_NAME = "mitra-sorting"
 end
 
 require_relative "lib/my_plugin_module/engine"
