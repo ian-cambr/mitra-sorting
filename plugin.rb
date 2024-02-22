@@ -4,7 +4,7 @@
 # about: Allows for mentee/mentor sorting categories.
 # meta_topic_id: TODO
 # version: 0.0.1
-# authors: NEATLab; Ian Cambridge / Wilson Zuber / Ivan Jensen / Riley King
+# authors: NEATLab; Ian Cambridge / Ivan Jensen / Riley King
 # url: TODO.wwu.edu
 # required_version: 2.7.0
 
